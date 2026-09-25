@@ -42,7 +42,7 @@ La versión de producción se abre en `http://localhost:3000`. Compose ejecuta l
 - `Dockerfile`, `docker-compose.yml`: imagen de producción y servicios.
 - `docs/PROMPT-IA.md`: prompt que guio el diseño de la web.
 - `docs/evidencias/`: capturas reales de la práctica.
-- `docs/`: informe de entrega y evidencias.
+- `docs/`: prompt y evidencias públicas. El informe final con datos de estudiante se conserva localmente y está excluido de Git.
 
 ## Documentación de la práctica
 
