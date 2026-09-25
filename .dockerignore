@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.env
+.env.*
+!.env.example
+docs
+*.docx
+*.pdf
+*.png
+*.jpeg
+*.jpg
+npm-debug.log*
