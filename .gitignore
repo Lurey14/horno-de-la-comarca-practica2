@@ -4,3 +4,9 @@ dist/
 .env
 .env.*
 !.env.example
+docs/Informe-Practica-2.docx
+docs/Informe-Practica-2.pdf
+docs/evidencias/04-api-health.png
+docs/build-report.py
+docs/render-informe/
+docs/evidencias/04-api-health.png

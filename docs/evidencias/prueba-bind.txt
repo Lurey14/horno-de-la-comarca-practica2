@@ -1,0 +1,2 @@
+Archivo de prueba de montaje bind de El Horno de la Comarca.
+El contenedor lee este archivo del proyecto sin copiarlo a la imagen.
