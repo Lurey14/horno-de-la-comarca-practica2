@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 610" role="img" aria-labelledby="title desc">
+  <title id="title">Un horno acogedor en las colinas</title>
+  <desc id="desc">Ilustración original de una panadería redonda entre colinas verdes bajo un cielo estrellado.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#52684e"/><stop offset=".68" stop-color="#9da27a"/><stop offset="1" stop-color="#d4bc83"/></linearGradient>
+    <linearGradient id="hill" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#788a59"/><stop offset="1" stop-color="#405f43"/></linearGradient>
+    <linearGradient id="door" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#57724b"/><stop offset="1" stop-color="#2e4e38"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#f9d783" stop-opacity=".74"/><stop offset="1" stop-color="#f3c265" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect width="900" height="610" fill="url(#sky)"/>
+  <circle cx="674" cy="129" r="82" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="674" cy="129" r="28" fill="#ead9a6" opacity=".85"/>
+  <g fill="#f0e3b5" opacity=".82"><circle cx="139" cy="99" r="2"/><circle cx="230" cy="178" r="2.5"/><circle cx="347" cy="74" r="2"/><circle cx="491" cy="132" r="2"/><circle cx="797" cy="220" r="2.5"/><circle cx="570" cy="58" r="1.8"/></g>
+  <g fill="#f2e7c1" opacity=".64"><path d="m298 122 4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/><path d="m773 91 3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><path d="m112 235 3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/></g>
+  <path d="M0 375 132 236l102 104 114-166 142 172 123-127 149 172v112H0z" fill="#596e56" opacity=".62"/>
+  <path d="m270 234 78-60 64 75-57-25-29 30zM558 255l55-36 57 67-48-25-24 21z" fill="#c5c1a1" opacity=".72"/>
+  <path d="M0 400c122-75 243-73 350-4 98 63 190 36 291-26 92-56 173-42 259 18v222H0z" fill="#768657"/>
+  <path d="M0 448c108-65 230-58 333-2 105 58 196 47 308-21 93-56 184-39 259 15v170H0z" fill="url(#hill)"/>
+  <path d="M0 524c122-61 260-44 348 16 117 80 226 47 329-14 74-44 153-46 223-12v96H0z" fill="#385640"/>
+  <path d="M105 470c55-40 114-48 174-29 38 12 60 36 68 72H79z" fill="#8a8d65"/>
+  <path d="M110 465c13-42 48-70 100-77 51-7 91 12 119 55l10 72H103z" fill="#8b8b6b" stroke="#d4c89d" stroke-width="4"/>
+  <path d="M96 467c21-58 65-91 131-94 64-3 107 23 130 80" fill="none" stroke="#dccb98" stroke-width="6" stroke-linecap="round"/>
+  <path d="M190 459c0-37 20-61 52-62 31-1 51 25 51 62v56H190z" fill="url(#door)" stroke="#c8b77f" stroke-width="4"/>
+  <circle cx="257" cy="482" r="4" fill="#e4c870"/>
+  <path d="M123 444c25-22 47-30 69-30m84-1c23 8 43 22 59 43" fill="none" stroke="#596c46" stroke-width="12" stroke-linecap="round"/>
+  <path d="M347 488c78-13 146-7 205 20 51 24 103 26 155 5" fill="none" stroke="#d8c598" stroke-width="8" opacity=".5" stroke-linecap="round"/>
+  <path d="M168 396c-22-24-17-44 4-55 14 20 13 37-4 55zm17-12c-1-30 11-48 36-52 7 25-5 44-36 52zm-20-5c-27-10-36-28-27-51 26 7 36 25 27 51zm158 34c-10-20-4-37 17-47 14 19 8 35-17 47zm-1-23c-24 1-38-12-38-36 25-1 38 12 38 36z" fill="#546e46"/>
+  <path d="M456 356c-11-28-4-47 21-57 17 24 10 43-21 57zm-17-28c-29 0-43-15-42-43 29-1 43 14 42 43zm41-6c3-28 18-41 45-36 1 27-14 39-45 36z" fill="#435d3e"/>
+  <path d="M564 399c-23-25-20-47 7-66 23 22 21 44-7 66zm19-17c4-29 22-43 51-38 0 29-17 42-51 38zm-34-1c-30-8-41-27-31-56 30 7 41 26 31 56z" fill="#516942"/>
+  <path d="M491 415c-30-18-36-43-17-72 32 14 38 39 17 72zm17-19c20-27 45-31 71-9-15 29-38 32-71 9z" fill="#506c43"/>
+  <circle cx="376" cy="457" r="3" fill="#f3d690"/><circle cx="384" cy="447" r="2" fill="#f3d690"/><circle cx="618" cy="465" r="3" fill="#edd092"/><circle cx="631" cy="452" r="2" fill="#edd092"/>
+  <path d="M133 405c40-18 81-24 122-18m-81 9c35 12 64 14 91 5" fill="none" stroke="#c8b77f" stroke-width="3" opacity=".6"/>
+  <text x="450" y="574" fill="#f3e6bf" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="5" opacity=".82">EL HORNO DE LA COMARCA</text>
+</svg>
